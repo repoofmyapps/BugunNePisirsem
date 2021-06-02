@@ -1,0 +1,34 @@
+{
+  "GununMenusu": [
+    {
+      "tarif_id": "16",
+      "tarif_adi": "Beyaz Peynirli Fırında Makarna",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/%C3%96ne%20%C3%87%C4%B1kan%20Resimler/ID2/peynirli-firinda-makarna-tarifi-yeni.jpg"
+    },
+      {
+      "tarif_id": "14",
+      "tarif_adi": "İrmik Helvası",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/Öne%20Çıkan%20Resimler/irmik-helvasi.jpg"
+    },
+    {
+      "tarif_id": "11",
+      "tarif_adi": "reklam",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/gununmenusu_kapak.jpg"
+    },
+    {
+      "tarif_id": "7",
+      "tarif_adi": "Patlıcan Ekşili Doğrama",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/Öne%20Çıkan%20Resimler/dograma.jpg"
+    },
+    {
+      "tarif_id": "2",
+      "tarif_adi": "Balkabaklı Turta",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/Öne%20Çıkan%20Resimler/balkabakli_turta%20(1).jpg"
+    },
+    {
+      "tarif_id": "1",
+      "tarif_adi": "Sodalı Börek",
+      "resim": "https://raw.githubusercontent.com/repoofmyapps/BugunNePisirsem/master/Öne%20Çıkan%20Resimler/kolay-sodali-borek-tarifi.jpg"
+    } 
+  ]
+}
